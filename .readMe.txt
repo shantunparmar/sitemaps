@@ -1,0 +1,3 @@
+This file is used to make dynamic sitemap script for wordpress site , you may set up in your cronjob so it will be update automatically
+
+Here $file is name of you domain , and val depicts https status , if your site is secured then pass 1 in val parameter else 0
